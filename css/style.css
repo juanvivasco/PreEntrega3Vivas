@@ -1,0 +1,21 @@
+* {
+  font-size: 1.2rem;
+}
+
+.titulo:hover {
+  color: #A0C3D9;
+}
+
+.fondo {
+  background-image: url(../images/background-form.jpg);
+}
+
+.form {
+  background-image: url(../images/background-form.jpg);
+}
+
+.nav-link:hover {
+  color: rgb(120, 157, 231);
+}
+
+/*# sourceMappingURL=style.css.map */
